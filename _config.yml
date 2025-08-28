@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Sachin Pathiyan Cherumanal # the website title (if blank, full name will be used instead)
+first_name: "Sachin"
+middle_name:
+last_name: Pathiyan Cherumanal
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me: LinkedIn. I usually reply within a day.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Researcher | Engineer | Divergent Thinker
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -110,8 +110,7 @@ giscus:
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
-  dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
-  light_theme: light # name of the light color scheme (preferred works well with al-folio light mode)
+  theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
 
@@ -122,13 +121,31 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+# external_sources:
+  # - name: LinkedIn
+  #   posts:
+  #     - title: "Invited Talk on Walert at RMIT University, Case Studies in Data Science."
+  #       url: https://www.linkedin.com/posts/damianospina_rmit-val-walert-ugcPost-7363572521972989952-8Z-B
+  #       published_date: 2025-08-19
+  #     - title: Walert @ RMIT Open Day 2025 [After]
+  #       url: https://www.linkedin.com/posts/damianospina_walert-rmitopenday-activity-7360652500498067456-bkJK
+  #       published_date: 2025-08-11
+  #     - title: Walert @ RMIT Open Day 2025 [Before]
+  #       url: https://www.linkedin.com/posts/damianospina_rmitopenday-walert-rag-activity-7359728001720217601-YEPA
+  #       published_date: 2025-08-09
+  #     - title: Walert winning the EIP-RACE Demonstrator
+  #       url: https://www.linkedin.com/posts/damianospina_walert-walert-walert-activity-7269459067104817152-t28l
+  #     - title: Walert @ Ubicomp 2024 Gadget show
+  #       url: https://www.linkedin.com/posts/damianospina_walert-gadgetshow-ubicomp2024-activity-7249563811546832897-0lO4
+  #     - title: Presenting @ MobileHCI 2024
+  #       url: https://www.linkedin.com/posts/sachinpc_towards-detecting-and-mitigating-cognitive-activity-7246756548473978881-O9Ca
+  #     - title: Blue Sky Third Place Winner Presented @ ICMI'24
+  #       url: https://www.linkedin.com/posts/sachinpc_everything-we-hear-towards-tackling-misinformation-activity-7260332209314627584-F9ZR
+  #     - title: Late-Breaking Work Presented @ ICMI'24
+  #       url: https://www.linkedin.com/posts/sachinpc_towards-investigating-biases-in-spoken-conversational-activity-7260336628609503234-_EYR
+  
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -264,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pathiyan Cherumanal]
+  first_name: [Sachin]
 
   style: apa
   locale: en
