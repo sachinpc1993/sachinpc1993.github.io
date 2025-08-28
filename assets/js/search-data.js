@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
@@ -72,7 +65,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-llm-powered-conversational-search-walert-at-rmit-university-case-studies-in-data-science",
+        
+          title: 'LLM-Powered Conversational Search (Walert) at RMIT University - Case Studies in Data Science... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/damianospina_rmit-val-walert-ugcPost-7363572521972989952-8Z-B", "_blank");
+          
+        },
+      },{id: "post-walert-rmit-open-day-2025",
+        
+          title: 'Walert @ RMIT Open Day 2025 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/damianospina_walert-rmitopenday-activity-7360652500498067456-bkJK", "_blank");
+          
+        },
+      },{id: "post-phd-completion",
+        
+          title: "PhD Completion !!!",
+        
+        description: "PhD Completion",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/phd_archival/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
