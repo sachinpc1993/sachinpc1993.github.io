@@ -1,0 +1,25 @@
+/* Fluid, bounded profile width */
+:root {
+  --pf-min: 140px;   /* never smaller than this */
+  --pf-ideal: 22vw;  /* scales with viewport */
+  --pf-max: 240px;   /* never larger than this */
+}
+
+/* Default (mobile first) */
+.profile {
+  width: clamp(160px, 60vw, var(--pf-max)); /* comfy on phones */
+}
+
+/* Tablet and up: keep it compact beside text */
+@media (min-width: 576px) {
+  .profile {
+    width: clamp(var(--pf-min), var(--pf-ideal), var(--pf-max));
+  }
+}
+
+/* Ensure the image scales nicely inside */
+.profile img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

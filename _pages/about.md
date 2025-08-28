@@ -39,6 +39,6 @@ I completed my **PhD in Computer Science at RMIT University (2025)**, where my r
 - Evaluation of information access systems.  
 - Knowledge-augmented Conversational AI and its applications. 
 
-At the foundation of my approach, I’m a **divergent thinker** who sees problems as puzzles to explore from every angle. By weaving together my experiences as a researcher, data scientist, and software engineer, I bring multiple perspectives to every project - turning ideas into impactful products. 
+At the foundation of my approach, I’m a **divergent thinker** who sees problems as puzzles to explore from every angle. By weaving together my experiences as a researcher, data scientist, and software engineer, I bring multiple perspectives to every project - turning ideas into impactful deliverables. 
 
 If you’re curious about what I’m building or are interested in collaborating, let’s connect.
