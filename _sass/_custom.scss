@@ -17,6 +17,13 @@
   }
 }
 
+/* Mobile-only: shrink image more on very small screens */
+@media (max-width: 480px) {
+  .profile {
+    width: clamp(80px, 35vw, 160px); /* smaller bounds for phones */
+  }
+}
+
 /* Ensure the image scales nicely inside */
 .profile img {
   width: 100%;
