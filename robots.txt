@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sachinpc1993.github.io/sitemap.xml
+Sitemap: https://sachinpc.com/sitemap.xml
