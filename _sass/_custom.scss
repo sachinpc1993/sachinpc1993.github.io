@@ -30,3 +30,18 @@
   height: auto;
   display: block;
 }
+
+/* Soften footer instead of removing */
+.site-footer,
+footer.footer,
+.page__footer {
+  background: transparent;
+  border: 0;
+  padding: 0.25rem 0;
+  color: var(--text-muted);
+}
+.site-footer .copyright,
+.page__footer .copyright {
+  display: none; /* hides the © line only */
+}
+
