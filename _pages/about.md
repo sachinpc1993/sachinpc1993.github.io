@@ -29,16 +29,16 @@ latest_posts:
 
 
 
-I am a **Researcher** with expertise in **Information Retrieval (IR), Natural Language Processing (NLP), and Conversational AI**.  
+I am a **Researcher** specializing in **Information Retrieval (IR), Natural Language Processing (NLP), and Conversational AI**. I earned my **PhD in Computer Science at RMIT University (2025)**, where I focused on developing and evaluating methods for the **fair dissemination of multiple perspectives in intelligent question answering systems**.  
 
-I have **3+ years of experience as a consulting Data Scientist**, applying **IR, NLP, and Generative AI** to enterprise-scale conversational platforms, and **3+ years as a Software Engineer**. This combination of research and industry experience shapes how I approach problems—grounding solutions in **scientific rigor** while ensuring **practical impact**.
+My academic journey also includes a **Master’s in Information Technology** from Monash University, specializing in **advanced machine learning** and **data-driven applications**, and a **Bachelor’s in Computer Science** from Amrita University, India.
+
+I bring **3+ years of experience as a consulting Data Scientist**, applying **IR, NLP, and Generative AI** to enterprise-scale conversational platforms, along with **3+ years as a Software Engineer**. This blend of research and industry practice shapes my approach—grounding solutions in **scientific rigor** while ensuring **real-world impact**.  
  
-I completed my **PhD in Computer Science at RMIT University (2025)**, where my research focused on developing and evaluating methods for the **fair dissemination of multiple perspectives in intelligent question answering systems**. My academic journey also includes a **Master’s in Information Technology** from Monash University, Melbourne, with a specialization in **advanced machine learning** and **data-driven applications**, and a **Bachelor’s in Computer Science** from Amrita University, India.  
-
-### Core Areas of Expertise
+### Areas of Interest
 - Evaluation of information access systems.  
 - Knowledge-augmented Conversational AI and its applications. 
 
-At the foundation of my approach, I’m a **divergent thinker** who sees problems as puzzles to explore from every angle. By weaving together my experiences as a researcher, data scientist, and software engineer, I bring multiple perspectives to every project - turning ideas into impactful deliverables. 
+At my core, I’m a **divergent thinker** who enjoys seeing problems as puzzles to explore from different angles. By drawing on my experiences as a researcher, data scientist, and software engineer, I bring fresh perspectives to turn ideas into meaningful results. 
 
 If you’re curious about what I’m building or are interested in collaborating, let’s connect.
