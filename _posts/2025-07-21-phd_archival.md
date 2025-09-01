@@ -8,8 +8,9 @@ categories: [Milestones]
 ---
 
 
-I am honoured to announce the completion of my PhD in Computer Science at RMIT University.
-The thesis will be made available in due course; for now, please find a preview of the abstract below.
+I am honoured to announce the completion of my PhD in Computer Science at RMIT University.  
+The thesis can be found in the [RMIT Research Repository](https://doi.org/10.25439/rmt.29624996).
+
 
 ### Fairness-Aware Question Answering for Intelligent Assistants
 
@@ -33,3 +34,9 @@ The thesis will be made available in due course; for now, please find a preview 
 
 ### Keywords
 **Fairness**, **Diversity**, **Information Retrieval**, **Question Answering**
+
+---
+
+### Acknowledgements
+
+This research has been conducted on the unceded lands of the Wurundjeri and Boon Wurrung peoples of the eastern Kulin Nation. We pay our respects to their Ancestors and Elders, past and present. This research was partially supported by the [Australian Research Council (ARC)](https://www.arc.gov.au/) under grants DE200100064 and CE200100005.
