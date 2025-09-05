@@ -1,5 +1,18 @@
 # Sachin's Portfolio
 
+## How to Run
+
+``` bash
+bundle exec jekyll serve
+```
+
+OR
+
+```bash
+bundle exec jekyll serve --livereload
+```
+
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
