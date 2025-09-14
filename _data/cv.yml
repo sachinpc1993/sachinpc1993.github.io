@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: Sachin Pathiyan Cherumanal, PhD
+    - name: Location
+      value: Melbourne, Australia
+    - name: Email
+      value: sachinpc.1993@live.com
+    - name: Website
+      value: <a href="https://sachinpc.com/">sachinpc.com</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/sachinpc">linkedin.com/in/sachinpc</a>
+    - name: Superpower
+      value: Seeing the whole by connecting what seems apart.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: AI Researcher/Engineer
+      institution: RMIT University
+      year: Apr 2025 -- Jul 2025
+    - title: Data Scientist — NLP & IR
+      institution: Five9 Inc., Melbourne
+      year: Feb 2021 -- Mar 2024
+    - title: Research Fellow
+      institution: RMIT University, Melbourne
+      year: Sep 2019 -- Nov 2020
+    - title: Data Science Intern
+      institution: Inference Solutions Pvt Ltd., Melbourne
+      year: May 2019 -- Sep 2019
+    - title: Software Engineer
+      institution: Bosch
+      year: Jul 2015 -- Jun 2017
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ph.D. in Computer Science
+      institution: RMIT University
+      year: 2021 -- 2025
+    - title: Master of Information Technology
+      institution: Monash University
+      year: 2017 -- 2019
+    - title: B.Tech in Computer Science and Engineering
+      institution: Amrita University
+      year: 2011 -- 2015
 
-- title: Honors and Awards
-  type: time_table
+- title: Skills
+  type: map
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - name: Research
+      value: Information Retrieval, Conversational Search, Human Computer Interaction, Statistical Testing, A/B Testing
+    - name: Machine Learning
+      value: Transformers, Generative AI, LLMs, Fine-Tuning, RAG, Prompt Engineering
+    - name: AI/ML Engineering Tools
+      value: LangChain, Haystack, Tensorflow, PyTorch, Elasticsearch, FAISS
+    - name: Backend Engineering
+      value: FastAPI, Django, API Development, Pydantic, PostgreSQL
+    - name: DevOps & Infrastructure
+      value: Docker, GitHub Actions, AWS (EC2, S3, Lambda, Bedrock, Sagemaker, ECR, CodeBuild), Nginx
+    - name: Data Platforms & Workflow Tools
+      value: Databricks, PySpark, n8n, Langflow, Airflow
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - English — Fluent
+    - Malayalam — Fluent
+    - Hindi — Fluent
+    - Tamil — Fluent
+
+- title: Interests
+  type: list
+  contents:
+    - Evaluation Measures
+    - Information Retrieval (IR)
+    - Natural Language Processing (NLP)
+    - Conversational Systems
+    - Responsible AI
+    - Generative AI Applications (LLMs/RAG)
