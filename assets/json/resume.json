@@ -22,8 +22,17 @@
     ]
   },
   "work": [
+        {
+      "name": "RMIT University, Melbourne",
+      "position": "Researcher (AI-Agents)",
+      "url": "https://www.rmit.edu.au/",
+      "startDate": "2025-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "name": "RMIT University",
+      "name": "RMIT University, Melbourne",
       "position": "AI Researcher/Engineer",
       "url": "https://www.rmit.edu.au/",
       "startDate": "2025-04-01",
@@ -33,7 +42,7 @@
     },
     {
       "name": "Five9 Inc., Melbourne",
-      "position": "Data Scientist — NLP & IR",
+      "position": "Data Scientist - NLP & IR",
       "url": "https://www.five9.com/",
       "startDate": "2021-02-01",
       "endDate": "2024-03-31",
@@ -52,16 +61,16 @@
     {
       "name": "Inference Solutions Pvt Ltd., Melbourne",
       "position": "Data Science Intern",
-      "url": "",
+      "url": "https://www.five9.com/en-au",
       "startDate": "2019-05-01",
       "endDate": "2019-09-30",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Bosch",
+      "name": "Bosch, India",
       "position": "Software Engineer",
-      "url": "",
+      "url": "https://www.bosch-softwaretechnologies.com/en/",
       "startDate": "2015-07-01",
       "endDate": "2017-06-01",
       "summary": "",
@@ -139,11 +148,11 @@
     "icon": "",
     "keywords": [
       "LangChain",
-      "Haystack",
       "Tensorflow",
       "PyTorch",
       "Elasticsearch",
-      "FAISS"
+      "FAISS",
+      "Haystack"
     ]
   },
   {
@@ -155,7 +164,8 @@
       "Django",
       "API Development",
       "Pydantic",
-      "PostgreSQL"
+      "PostgreSQL",
+      "MongoDB"
     ]
   },
   {
@@ -208,7 +218,7 @@
   "interests": [{
       "name": "Research",
       "icon": "",
-      "keywords": ["Evaluation Measures", "Information Retrieval (IR)", "Natural Language Processing (NLP)", "Conversational Systems", "Responsible AI", "Generative AI Applications (LLMs/RAG)"]
+      "keywords": ["Evaluation Measures", "Information Retrieval (IR)", "Natural Language Processing (NLP)", "Conversational Systems", "Responsible AI", "Generative AI Applications (LLMs/RAG)", "AI Agents"]
     }],
   "references": [],
   "projects": []
