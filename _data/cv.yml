@@ -17,6 +17,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Researcher (AI-Agents)
+      institution: RMIT University
+      year: September 2025 -- Present
     - title: AI Researcher/Engineer
       institution: RMIT University
       year: Apr 2025 -- Jul 2025
@@ -50,13 +53,13 @@
   type: map
   contents:
     - name: Research
-      value: Information Retrieval, Conversational Search, Human Computer Interaction, Statistical Testing, A/B Testing
+      value: Information Retrieval, Conversational AI, Human Computer Interaction, Statistical Testing, A/B Testing
     - name: Machine Learning
       value: Transformers, Generative AI, LLMs, Fine-Tuning, RAG, Prompt Engineering
     - name: AI/ML Engineering Tools
-      value: LangChain, Haystack, Tensorflow, PyTorch, Elasticsearch, FAISS
+      value: LangChain, Tensorflow, PyTorch, Elasticsearch, FAISS, Haystack, 
     - name: Backend Engineering
-      value: FastAPI, Django, API Development, Pydantic, PostgreSQL
+      value: FastAPI, Django, API Development, Pydantic, PostgreSQL, MongoDB
     - name: DevOps & Infrastructure
       value: Docker, GitHub Actions, AWS (EC2, S3, Lambda, Bedrock, Sagemaker, ECR, CodeBuild), Nginx
     - name: Data Platforms & Workflow Tools
@@ -79,3 +82,4 @@
     - Conversational Systems
     - Responsible AI
     - Generative AI Applications (LLMs/RAG)
+    - AI-Agents

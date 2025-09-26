@@ -39,6 +39,4 @@ I bring **3+ years of experience as a consulting Data Scientist**, applying **IR
 - Evaluation of information access systems.  
 - Knowledge-augmented Conversational AI and its applications. 
 
-At my core, I’m a **divergent thinker** who enjoys seeing problems as puzzles to explore from different angles. By drawing on my experiences as a researcher, data scientist, and software engineer, I bring fresh perspectives to turn ideas into meaningful results. 
-
 If you’re curious about what I’m building or are interested in collaborating, let’s connect.
