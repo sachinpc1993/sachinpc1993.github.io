@@ -29,7 +29,7 @@ nav_order: 6
 - **Reviewer** — [ACM Transactions on Information Systems](https://dl.acm.org/journal/tois) **(TOIS)**  
 - **Reviewer** — [ACM Conversational User Interfaces](https://cui.acm.org/2024/) **(CUI)**
 - **Reviewer (Late-Breaking Work)** — [ACM CHI Conference on Human Factors in Computing Systems](https://chi2024.acm.org/for-authors/late-breaking-work/) **(CHI)**
-- **Reviewer (Workshop)** — [ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)](https://www.ubicomp.org/ubicomp-iswc-2024/) **(UbiComp/ISWC)** 
+- **Reviewer (Workshop)** — [ACM International Joint Conference on Pervasive and Ubiquitous Computing](https://www.ubicomp.org/ubicomp-iswc-2024/) **(UbiComp/ISWC)** 
 
 
 <div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2021</div>
