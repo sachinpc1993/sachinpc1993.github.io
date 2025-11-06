@@ -39,4 +39,4 @@ The thesis can be found in the [RMIT Research Repository](https://doi.org/10.254
 
 ### Acknowledgements
 
-This research has been conducted on the unceded lands of the Wurundjeri and Boon Wurrung peoples of the eastern Kulin Nation. We pay our respects to their Ancestors and Elders, past and present. This research was partially supported by the [Australian Research Council (ARC)](https://www.arc.gov.au/) under grants DE200100064 and CE200100005.
+This research was conducted on the unceded lands of the Wurundjeri and Boon Wurrung peoples of the eastern Kulin Nation. We pay our respects to their Ancestors and Elders, past and present. This research was partially supported by the [Australian Research Council (ARC)](https://www.arc.gov.au/) under grants DE200100064 and CE200100005.

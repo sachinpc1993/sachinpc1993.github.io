@@ -57,7 +57,7 @@
     - name: Machine Learning
       value: Transformers, Generative AI, LLMs, Fine-Tuning, RAG, Prompt Engineering
     - name: AI/ML Engineering Tools
-      value: LangChain, Tensorflow, PyTorch, Elasticsearch, FAISS, Haystack, 
+      value: LangChain, LangGraph, Tensorflow, PyTorch, Elasticsearch, FAISS, Haystack, 
     - name: Backend Engineering
       value: FastAPI, Django, API Development, Pydantic, PostgreSQL, MongoDB
     - name: DevOps & Infrastructure

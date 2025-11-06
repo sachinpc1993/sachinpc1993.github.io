@@ -139,7 +139,8 @@
       "LLMs",
       "Fine-Tuning",
       "RAG",
-      "Prompt Engineering"
+      "Prompt Engineering",
+      "MLflow"
     ]
   },
   {
@@ -148,6 +149,7 @@
     "icon": "",
     "keywords": [
       "LangChain",
+      "LangGraph",
       "Tensorflow",
       "PyTorch",
       "Elasticsearch",
@@ -165,7 +167,9 @@
       "API Development",
       "Pydantic",
       "PostgreSQL",
-      "MongoDB"
+      "MongoDB",
+      "Neo4j",
+      "Swagger"
     ]
   },
   {
