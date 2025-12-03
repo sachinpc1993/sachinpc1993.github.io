@@ -16,19 +16,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-services",
           title: "Services",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/services/";
+          },
+        },{id: "nav-activities",
+          title: "Activities",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/activities/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-llm-powered-conversational-search-walert-at-rmit-university-case-studies-in-data-science",
         
