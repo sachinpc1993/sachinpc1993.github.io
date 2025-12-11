@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-llm-powered-conversational-search-walert-at-rmit-university-case-studies-in-data-science",
+        },{id: "post-winner-at-the-neurips-2025-mmu-ragent-workshop-competition",
+        
+          title: 'Winner at the NeurIPS 2025 MMU-RAGent Workshop Competition <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "RMIT-ADMS IR secured first place in the Dynamic Evaluation (Open-Source) Text-to-Text Track at the MMU-RAGent Workshop, NeurIPS 2025.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/rankun_happy-to-share-that-we-just-achieved-another-activity-7404820074802716674-JNjB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8", "_blank");
+          
+        },
+      },{id: "post-llm-powered-conversational-search-walert-at-rmit-university-case-studies-in-data-science",
         
           title: 'LLM-Powered Conversational Search (Walert) at RMIT University - Case Studies in Data Science... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
