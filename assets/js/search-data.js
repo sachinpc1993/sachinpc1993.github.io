@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-winner-at-the-neurips-2025-mmu-ragent-workshop-competition",
+        },{id: "post-workshop-build-your-own-retrieval-augmented-generation-rag-system",
+        
+          title: 'Workshop: Build Your Own Retrieval-Augmented Generation (RAG) System <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Conducted RAG Workshop at the ADM+S Summer School held at RMIT University",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.linkedin.com/posts/damianospina_huge-congratulations-to-sachin-pathiyan-cherumanal-activity-7427912395962085377-CjCk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8", "_blank");
+          
+        },
+      },{id: "post-winner-at-the-neurips-2025-mmu-ragent-workshop-competition",
         
           title: 'Winner at the NeurIPS 2025 MMU-RAGent Workshop Competition <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
