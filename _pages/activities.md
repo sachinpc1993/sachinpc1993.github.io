@@ -7,9 +7,13 @@ nav: true
 nav_order: 7
 ---
 
+<div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2026</div>
+
+- **[Invited Talk](https://www.linkedin.com/posts/damianospina_huge-congratulations-to-sachin-pathiyan-cherumanal-activity-7427912395962085377-CjCk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)** at the ADM+S Summer School - **Build Your Own Retrieval-Augmented Generation (RAG) System**
+
 <div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2025</div>
 
-- **🏆 ["RMIT-ADMS IR" secured first place in the Dynamic Evaluation (Open-Source) Text-to-Text Track](https://www.linkedin.com/posts/rankun_happy-to-share-that-we-just-achieved-another-activity-7404820074802716674-JNjB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)** at the MMU-RAGent Workshop, NeurIPS 2025.
+- **🏆 ["RMIT-ADMS IR" secured first place in the Dynamic Evaluation (Open-Source) Text-to-Text Track](https://www.linkedin.com/posts/rankun_happy-to-share-that-we-just-achieved-another-activity-7404820074802716674-JNjB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)** at the MMU-RAGent Workshop, NeurIPS 2025
 
 - **[Demo](https://www.linkedin.com/posts/damianospina_walert-rmitopenday-activity-7360652500498067456-bkJK) of our in-house conversational intelligence (Walert)** at RMIT Open Day 2025
 
