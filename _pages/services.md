@@ -10,6 +10,7 @@ nav_order: 6
 
 <div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2026</div>
 
+- **PC Member (Full Paper)** — [International ACM Conference on Knowledge and Information Management](https://cikm2026.diag.uniroma1.it) **(CIKM)**
 - **PC Member (Short)** — [ACM International Conference on Web Search and Data Mining](https://wsdm-conference.org/2026/) **(WSDM)**
 - **PC Member** — [ACM SIGIR Conference on Human Information Interaction and Retrieval](https://chiir2026.github.io) **(CHIIR)**
 - **Reviewer** - [ACM CHI Conference on Human Factors in Computing Systems](https://chi2026.acm.org) **(CHI)**
