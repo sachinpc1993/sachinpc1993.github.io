@@ -9,7 +9,7 @@ nav_order: 7
 
 <div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2026</div>
 
-- **Co-host of the RAG 101 workshop** at [The Summer Institute in Computational Social Science, Melbourne — SICSS-Melbourne](https://sicss.io/2026/melbourne/) with Futoon Abushaqra
+- **Co-host of the RAG 101 workshop** at [The Summer Institute in Computational Social Science, Melbourne - SICSS-Melbourne](https://sicss.io/2026/melbourne/) with [Futoon Abushaqra](https://www.admscentre.org.au/futoon-abushaqra/)
 
 - **[Invited Talk](https://www.linkedin.com/posts/damianospina_huge-congratulations-to-sachin-pathiyan-cherumanal-activity-7427912395962085377-CjCk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)** at the ADM+S Summer School - **Build Your Own Retrieval-Augmented Generation (RAG) System**
 
