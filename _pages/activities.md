@@ -9,6 +9,8 @@ nav_order: 7
 
 <div style="border-top: 1px solid #ccc; text-align: right; font-style: italic; margin: 1.5em 0;">2026</div>
 
+- **Demo of our in-house conversational intelligence (Walert) at [Security and Resilience Hub Industry Showcase](https://www.linkedin.com/posts/were-excited-to-announce-the-launch-of-the-ugcPost-7479760610751287296-2oCF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)**
+
 - **Invited Talk** at [The Summer Institute in Computational Social Science, Melbourne - SICSS-Melbourne](https://sicss.io/2026/melbourne/) with [Futoon Abushaqra](https://www.admscentre.org.au/futoon-abushaqra/) - **Workshop: RAG Systems in Research**
 
 - **[Invited Talk](https://www.linkedin.com/posts/damianospina_huge-congratulations-to-sachin-pathiyan-cherumanal-activity-7427912395962085377-CjCk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtsUs4BtEbnRA8v_PWUrASJnKdwpecSUx8)** at the ADM+S Summer School - **Build Your Own Retrieval-Augmented Generation (RAG) System**
